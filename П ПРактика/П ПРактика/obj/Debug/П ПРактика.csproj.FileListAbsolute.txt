@@ -1,0 +1,11 @@
+C:\Users\Александр\Source\Repos\П ПРактика\П ПРактика\bin\Debug\П ПРактика.exe.config
+C:\Users\Александр\Source\Repos\П ПРактика\П ПРактика\bin\Debug\П ПРактика.exe
+C:\Users\Александр\Source\Repos\П ПРактика\П ПРактика\bin\Debug\П ПРактика.pdb
+C:\Users\Александр\Source\Repos\П ПРактика\П ПРактика\obj\Debug\П ПРактика.csprojAssemblyReference.cache
+C:\Users\Александр\Source\Repos\П ПРактика\П ПРактика\obj\Debug\П_ПРактика.Properties.Resources.resources
+C:\Users\Александр\Source\Repos\П ПРактика\П ПРактика\obj\Debug\П ПРактика.csproj.GenerateResource.cache
+C:\Users\Александр\Source\Repos\П ПРактика\П ПРактика\obj\Debug\П ПРактика.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Source\Repos\П ПРактика\П ПРактика\obj\Debug\П ПРактика.exe
+C:\Users\Александр\Source\Repos\П ПРактика\П ПРактика\obj\Debug\П ПРактика.pdb
+C:\Users\Александр\Source\Repos\П ПРактика\П ПРактика\obj\Debug\П_ПРактика.Form1.resources
+C:\Users\Александр\Source\Repos\П ПРактика\П ПРактика\obj\Debug\П_ПРактика.Form2.resources
